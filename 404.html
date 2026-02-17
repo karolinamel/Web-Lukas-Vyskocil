@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Stránka nenalezena | Lukáš Vyskočil</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            text-align: center;
+            background: var(--gray-light);
+        }
+
+        .error-container {
+            background: #fff;
+            padding: 4rem;
+            border-radius: var(--border-radius);
+            box-shadow: var(--shadow-soft);
+        }
+
+        .frown-icon {
+            font-size: 5rem;
+            margin-bottom: 2rem;
+            color: var(--primary-color);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="error-container">
+        <div class="frown-icon">☹</div>
+        <h1>404 - Stránka nenalezena</h1>
+        <p>Tahle cesta bohužel nikam nevede. Zkuste to raději na hlavní stránce.</p>
+        <a href="/" class="btn btn-primary" style="margin-top: 2rem;">Zpět na web</a>
+    </div>
+</body>
+
+</html>

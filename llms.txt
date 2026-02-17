@@ -1,0 +1,17 @@
+# Lukáš Vyskočil - LinkedIN Lidsky
+
+Tento web představuje služby Lukáše Vyskočila, experta na LinkedIN. 
+Zaměřuje se na lidský přístup k tvorbě obsahu a budování osobní značky.
+
+## Hlavní sekce
+- **Spolupráce**: Nabídka konzultací, balíčků a firemních školení.
+- **Kdo jsem**: Osobní představení "Laskavého chachara".
+- **Poslechněte si**: Odkazy na přednášky a podcasty.
+- **Reference**: Zkušenosti klientů.
+- **Akce**: Plánované události (aktualizováno přes Notion API).
+- **Kontakt**: Přímé spojení na Lukáše.
+
+## Brand Voice
+Příátelský, profesionální, ne-korporátní, laskavý.
+Primary Font: Proba Pro.
+Colors: Blue (#01a1db), Yellow (#ffea6c).
